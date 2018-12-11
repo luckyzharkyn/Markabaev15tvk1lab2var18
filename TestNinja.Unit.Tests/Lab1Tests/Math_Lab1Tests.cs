@@ -4,6 +4,7 @@ using TestNinja.Fundamentals;
 
 namespace TestNinja.Unit.Tests.Lab1Tests
 {
+    //var18
     [TestClass]
     public class Math_Lab1Tests
     {

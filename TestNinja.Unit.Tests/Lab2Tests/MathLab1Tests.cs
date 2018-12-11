@@ -3,6 +3,7 @@ using TestNinja.Fundamentals;
 
 namespace TestNinja.Unit.Tests.Lab2Tests
 {
+    //var18
     [TestFixture]
     public class MathLab1Tests
     {
